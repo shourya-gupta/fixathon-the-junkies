@@ -37,8 +37,8 @@ https://charming-palmier-3df336.netlify.app/
 - [Varsha Singh](https://github.com/hsteg420)
 - [Deepanshi Jain](https://github.com/deepanshi-04)
 - [Simran Wadhwani](https://github.com/SimranWadhwani572)
-- [Shourya Gupta] (https://github.com/shourya-gupta)
-- [Vanshika Goeal[ (https://github.com/vanshika-goel0109)
+- [@Shourya Gupta] (https://github.com/shourya-gupta)
+- [@Vanshika Goeal[ (https://github.com/vanshika-goel0109)
 
 
 
